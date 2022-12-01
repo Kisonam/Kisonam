@@ -2,16 +2,16 @@
 <h1 align="center">♟I'm Nightmare♟</h1>
 <h3 align="center">Beginner C# developer from <a href="https://en.wikipedia.org/wiki/Ukraine"/>Ukraine</a></h3>
 
-<p align="center"> <img src="https://media0.giphy.com/media/26DN5kvctHkt5xN4s/giphy.gif" alt="kisonam" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kisonam&label=Views&color=ff0000&style=plastic" alt="kisonam" /> </p>
-
-- 💻 I’m currently working on **University Project**
+<p align="center"> <img src="https://media0.giphy.com/media/26DN5kvctHkt5xN4s/giphy.gif" alt="kisonam" width = "650" height = "650"/> </p>
+<p align="center" > 
+  Visitor count
+ <br>
+  <img src="https://profile-counter.glitch.me/Kisonam/count.svg" width = "270" height = "40"/>
+</p>
 
 - 📚 I’m currently learning **Unity, ASP.Net**🔧
 
 - 📮 How to reach me  <a href="https://t.me/Funeraldate" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@funeraldate" height="25" width="25" /></a>
-
-- 🤡 Fun fact **I'm not 18**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
