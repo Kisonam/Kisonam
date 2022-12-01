@@ -47,10 +47,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kisonam&show_icons=true&theme=dark&text_color=ffbab3&locale=en&layout=compact" alt="kisonam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kisonam&show_icons=true&theme=dark&title_color=ffb3b3&text_color=bdffc4&locale=en" alt="kisonam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kisonam&theme=highcontrast" alt="kisonam" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kisonam&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisonam&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kisonam&theme=github_dark)
 
 
