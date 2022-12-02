@@ -2,7 +2,7 @@
 <h1 align="center">♟I'm Nightmare♟</h1>
 <h3 align="center">Beginner C# developer from <a href="https://en.wikipedia.org/wiki/Ukraine"/>Ukraine</a></h3>
 
-<p align="center"> <img src="https://media0.giphy.com/media/26DN5kvctHkt5xN4s/giphy.gif" alt="kisonam" width = "650" height = "650"/> </p>
+<p align="center"> <img src="https://media0.giphy.com/media/26DN5kvctHkt5xN4s/giphy.gif" alt="kisonam"/> </p>
 <p align="center" > 
   Visitor count
  <br>
