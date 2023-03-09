@@ -40,9 +40,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kisonam&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisonam&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kisonam&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kisonam&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisonam&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisonam&hide_progress=false&theme=dark&hide_border=true)
 
 <p align="center">
   <img alig src="https://github.com/Kisonam/Kisonam/blob/output/github-contribution-grid-snake.svg" />
