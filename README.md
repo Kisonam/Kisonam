@@ -39,10 +39,17 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kisonam&theme=dark">
+</div>
+<br/>
+  <div >
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisonam&theme=dark">
+    <img align="left" height=200px width=300px 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisonam&hide_progress=false&theme=dark&hide_border=true">
+    </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kisonam&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisonam&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisonam&hide_progress=false&theme=dark&hide_border=true)
+
 
 <p align="center">
   <img alig src="https://github.com/Kisonam/Kisonam/blob/output/github-contribution-grid-snake.svg" />
