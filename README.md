@@ -27,8 +27,6 @@
 <p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://github.com/xamarin/Xamarin.Forms" target="_blank" rel="noreferrer">
-<img src="https://static-00.iconduck.com/assets.00/xamarin-icon-512x454-qyapgz6t.png" alt="unity" width="45" height="40"/> </a>
   <img src="https://www.cleverbit.software/wp-content/uploads/2020/09/Icons-04.png" alt="unity" width="40" height="40"/>
 <br>
  
