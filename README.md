@@ -1,6 +1,14 @@
 
 <h1 align="center">♟I'm Nightmare♟</h1>
 <h3 align="center">C# developer from <a href="https://en.wikipedia.org/wiki/Ukraine"/>Ukraine</a></h3>
+
+<p align="center>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kisonam&theme=github-compact&hide_border=true">
+  </a>       
+</p>
+
+
 <p align="center" > 
   Visitor count
  <br>
