@@ -55,9 +55,3 @@
     <img align="left" height=200px width=300px 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisonam&hide_progress=false&theme=dark&hide_border=true">
     </div>
-
-
-
-<p align="center">
-  <img alig src="https://github.com/Kisonam/Kisonam/blob/output/github-contribution-grid-snake.svg" />
-</p>
