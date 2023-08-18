@@ -2,18 +2,7 @@
 <h1 align="center">♟I'm Nightmare♟</h1>
 <h3 align="center">C# developer from <a href="https://en.wikipedia.org/wiki/Ukraine"/>Ukraine</a></h3>
 
-<p align="center>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kisonam&theme=github-compact&hide_border=true">
-  </a>       
-</p>
 
-
-<p align="center" > 
-  Visitor count
- <br>
-  <img src="https://profile-counter.glitch.me/Kisonam/count.svg" width = "270" height = "40"/>
-</p>
 
 - 📚 I’m currently learning **Android, ASP.NET**🔧
 
@@ -45,12 +34,31 @@
 </a> <a href="https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/ms_server_bez_tla.png" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-</p>
-<div align="left">
+</p>  
+<div >
+  <details >
+  <summary> Activity </summary>
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kisonam&theme=dark">
-</div>
+</div>  
 <br/>
-  <div >
+ 
+<p align="center>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kisonam&theme=github-compact&hide_border=true">
+  </a>       
+</p>
+
+
+<p align="center" > 
+  Visitor count
+ <br>
+  <img src="https://profile-counter.glitch.me/Kisonam/count.svg" width = "270" height = "40"/>
+</p>
+</details>
+</div>
+
+ <div >
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisonam&theme=dark">
     <img align="left" height=200px width=300px 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisonam&hide_progress=false&theme=dark&hide_border=true">
