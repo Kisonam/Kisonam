@@ -20,11 +20,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+<img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <img src="https://www.cleverbit.software/wp-content/uploads/2020/09/Icons-04.png" alt="unity" width="40" height="40"/>
 <br>
- 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
@@ -34,6 +35,7 @@
 </a> <a href="https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/ms_server_bez_tla.png" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+
 </p>  
 <div >
   <details >
