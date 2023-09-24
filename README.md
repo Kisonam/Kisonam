@@ -4,7 +4,7 @@
 
 
 
-- 📚ANDROID | ASP.NET DEVELOPER🔧
+- 📚WPF | ASP.NET DEVELOPER🔧
 
 - 📮 How to reach me  <a href="https://t.me/Funeraldate" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@funeraldate" height="25" width="25" /></a>
                  <!-- SOCIALS -->  
@@ -21,12 +21,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
                   <!-- TOOLS -->
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="40"/> </a>
+
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  
 <img src="https://www.cleverbit.software/wp-content/uploads/2020/09/Icons-04.png" alt="asp.net" width="40" height="40"/>
+  <a href="https://uk.wikipedia.org/wiki/Windows_Presentation_Foundation" target="_blank" rel="noreferrer">
+<img src="https://www.stimulsoft.com/images/products/reports-wpf/integration/wpf.svg?v=2" alt="WPF" width="40" height="40"/> </a> 
                 <!-- END TOOLS -->
+                 <!-- CLOUDS -->
+<br>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+<img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="40"/> </a>
+                <!-- END CLOUDS -->
                 <!-- Services -->
 <br>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
