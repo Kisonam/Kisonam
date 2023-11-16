@@ -10,7 +10,6 @@
                  <!-- SOCIALS -->  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@artem74572329" target="blank"><img align="center" src="https://toppng.com/uploads/thumbnail/twitter-x-logo-white-logo-icon-hd-png-11690219118w7pwmum0st.png" alt="@artem74572329" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/artem-radovskyi-611020259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/artem-radovskyi-611020259/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/public.cemetery/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/public.cemetery/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nightmarestudio387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwg_nvmnossi8i4rbhgwlzw" height="30" width="40" /></a>
