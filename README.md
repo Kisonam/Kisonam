@@ -4,7 +4,7 @@
 
 
 
-- 📚WPF | ASP.NET DEVELOPER🔧
+- ASP.NET DEVELOPER🔧
 
 - 📮 How to reach me  <a href="https://t.me/Funeraldate" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@funeraldate" height="25" width="25" /></a>
                  <!-- SOCIALS -->  
