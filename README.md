@@ -1,10 +1,10 @@
 
 <h1 align="center"> ARTEM RADOVSKYI </h1>
-<h3 align="center">.NET DEVELOPER </h3>
+<h3 align="center"> BACKEND DEVELOPER </h3>
 
 
 
-- ASP.NET DEVELOPER🔧
+- BACKEND DEVELOPER🔧
 
 - 📮 How to reach me  <a href="https://t.me/Funeraldate" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@funeraldate" height="25" width="25" /></a>
                  <!-- SOCIALS -->  
