@@ -1,16 +1,11 @@
 
 <h1 align="center"> ARTEM RADOVSKYI </h1>
 <h3 align="center"> BACKEND DEVELOPER </h3>
-
-
-- 📮 How to reach me  <a href="https://t.me/Funeraldate" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@funeraldate" height="25" width="25" /></a>
-                 <!-- SOCIALS -->  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/aradovskyi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/artem-radovskyi-611020259/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aradovskyi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/artem-radovskyi-611020259/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/public.cemetery/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/public.cemetery/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nightmarestudio387" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwg_nvmnossi8i4rbhgwlzw" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/5JXqGvw5DK" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5JXqGvw5DK" height="30" width="40" /></a>
+  <a href="https://t.me/Funeraldate" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@funeraldate" height="25" width="25" /></a>
 </p>
                  <!-- END SOCIALS -->  
 <h3 align="left">Languages and Tools:</h3>
@@ -19,9 +14,7 @@
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  
-<img src="https://www.webnovos.com/assets/img/vector-image/asp/asp_header2.png" alt="asp.net" width="40" height="30"/>
-  <a href="https://uk.wikipedia.org/wiki/Windows_Presentation_Foundation" target="_blank" rel="noreferrer">
-<img src="https://www.stimulsoft.com/images/products/reports-wpf/integration/wpf.svg?v=2" alt="WPF" width="40" height="40"/> </a> 
+<img src="https://logodix.com/logo/1796970.png" alt="asp.net" width="40" height="30"/>
                 <!-- END TOOLS -->
                  <!-- CLOUDS -->
 <br>
@@ -48,30 +41,3 @@
 <a href="https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/ms_server_bez_tla.png" alt="mysql" width="40" height="40"/> </a>
                  <!-- End Databases -->  
 </p>  
- <div align="left">
-    <img height=200px width=300px 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisonam&hide_progress=false&theme=dark&hide_border=true">
-    </div>
-<br/>
-<div >
-  <details >
-  <summary> Activity </summary>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kisonam&theme=dark">
-</div>  
-<br/>
- 
-<p align="center>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kisonam&theme=github-compact&hide_border=true">
-  </a>       
-</p>
-<p align="center" > 
-  Visitor count
- <br>
-  <img src="https://profile-counter.glitch.me/Kisonam/count.svg" width = "270" height = "40"/>
-</p>
-<br/>
- <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisonam&theme=dark">
-</details>
-</div>
