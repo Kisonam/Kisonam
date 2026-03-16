@@ -7,3 +7,25 @@
 <a href="https://www.instagram.com/public.cemetery/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/public.cemetery/" height="30" width="40" /></a>
   <a href="https://t.me/Funeraldate" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@funeraldate" height="25" width="25" /></a>
 </p>
+
+```
+                  _|_                                                           
+                   |                                                            
+                  / \                                              ;   :   ;     
+                 //_\\                     (\o/)                .   \_,!,_/   , 
+                //(_)\\                    (/|\)                 `.,'     `.,'  
+                 |/^\|                                            /         \   
+       ,%%%%     // \\    ,@@@@@@@,                          ~ -- :         : --
+     ,%%%%/%%%  //   \\ ,@@@\@@@@/@@,                             \         /   
+ @@@%%%\%%//%%%// === \\ @@\@@@/@@@@@                            ,'`._   _.'`.  
+@@@@%%%%\%%%%%// =-=-= \\@@@@\@@@@@@;%#####,                    '   / `!` \   ` 
+@@@@%%%\%%/%%//   ===   \\@@@@@@/@@@%%%######,                     ;   :   ;  
+@@@@@%%%%/%%//|         |\\@\\//@@%%%%%%#/####                                  
+'@@@@@%%\\/%~ |         | ~ @|| %\\//%%%#####;                                  
+  @@\\//@||   |  __ __  |    || %%||%%'######                 __n__n__          
+   '@||  ||   | |  |  | |    ||   ||##\//####          .------`-\00/-'          
+     ||  ||   | | -|- | |    ||   ||'#||###'          /  ##  ## (oo)            
+     ||  ||   |_|__|__|_|    ||   ||  ||             / \## __   ./              
+     ||  ||_/`  =======  `\__||_._||  ||                |//YY \|/               
+   __||_/`      =======            `\_||_____________   |||   ||| _________    
+```
